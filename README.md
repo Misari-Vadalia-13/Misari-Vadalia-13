@@ -7,8 +7,8 @@
   <br><br>
 
   <img src="https://img.shields.io/badge/COMPUTER%20SCIENCE%20STUDENT-0D0D0F?style=for-the-badge&labelColor=8B5CF6&color=0D0D0F" alt="CS Student Badge"/>
-  <img src="https://img.shields.io/badge/JAVA%20%2B%20DSA-0D0D0F?style=for-the-badge&labelColor=B8FFCA&color=0D0D0F" alt="Java DSA Badge"/>
-  <img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-0D0D0F?style=for-the-badge&labelColor=F5F3EE&color=0D0D0F" alt="Web Dev Badge"/>
+  <img src="https://img.shields.io/badge/DSA+C++-0D0D0F?style=for-the-badge&labelColor=B8FFCA&color=0D0D0F" alt="Java DSA Badge"/>
+  <img src="https://img.shields.io/badge/Java-0D0D0F?style=for-the-badge&labelColor=F5F3EE&color=0D0D0F" alt="Web Dev Badge"/>
 
 </div>
 
