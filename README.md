@@ -1,140 +1,108 @@
-<div align="center">
+# Misari Vadalia
 
-  <h1>Misari Vadalia</h1>
-
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=B8FFCA&center=true&vCenter=true&width=850&lines=Computer+Science+Student+%40+CSPIT+%7C+Java+%7C+DSA;Building+ideas+into+working+projects;Exploring+Open+Source+%26+Hackathons;Welcome+to+my+corner+of+GitHub+%E2%9C%A6" alt="Typing Subtitle" />
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/COMPUTER%20SCIENCE%20STUDENT-0D0D0F?style=for-the-badge&labelColor=8B5CF6&color=0D0D0F" alt="CS Student Badge"/>
-  <img src="https://img.shields.io/badge/DSA+C++-0D0D0F?style=for-the-badge&labelColor=B8FFCA&color=0D0D0F" alt="Java DSA Badge"/>
-  <img src="https://img.shields.io/badge/Java-0D0D0F?style=for-the-badge&labelColor=F5F3EE&color=0D0D0F" alt="Web Dev Badge"/>
-
-</div>
-
-<br>
-<hr>
-
-<div align="center">
-  <h1><code>01</code> — ABOUT</h1>
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>Hi, I'm Misari. 👋</h3>
-      <p>I'm a <strong>B.Tech Computer Science & Engineering student</strong> who enjoys understanding how things work and turning that knowledge into projects.</p>
-      <p>Currently exploring:</p>
-      <p><strong>Java · DSA · Web Development · UI/UX</strong></p>
-      <p>I learn best by actually building, breaking, fixing, and rebuilding things.</p>
-      <br>
-      <blockquote><strong>curiosity → code → problem solving → growth</strong></blockquote>
-    </td>
-    <td width="45%" valign="top">
-<pre><code>┌──────────────────────────┐
-│      CURRENT FOCUS       │
-├──────────────────────────┤
-│  ☕  Java                │
-│  🧠  Data Structures     │
-│  🌐  Web Development     │
-│  🎨  UI/UX Prototyping   │
-│  🛠️  Real-world Projects │
-└──────────────────────────┘</code></pre>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<div align="center">
-  <h1><code>02</code> — TECHNOLOGIES</h1>
-</div>
-
-<h3>Languages</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js&theme=dark" alt="Languages" />
+  <strong>2nd Year B.Tech Computer Science & Engineering Student</strong><br>
+  📍 Ankleshwar, Gujarat, India &nbsp;|&nbsp; 🎓 CSPIT, CHARUSAT (Class of 2029)
 </p>
 
-<h3>Tools & Platforms</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,arduino,canva&theme=dark" alt="Tools" />
-</p>
-
-<h3>Exploring</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/DSA-8B5CF6?style=flat-square" alt="DSA"/>
-  <img src="https://img.shields.io/badge/Java-B8FFCA?style=flat-square&labelColor=111113&logo=openjdk&logoColor=B8FFCA" alt="Java"/>
-  <img src="https://img.shields.io/badge/Web-HTML%20%2F%20CSS%20%2F%20JS-F5F3EE?style=flat-square&labelColor=111113" alt="Web"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&labelColor=111113&logo=figma&logoColor=F24E1E" alt="Figma"/>
-</p>
-
-<hr>
-
-<div align="center">
-  <h1><code>03</code> — WHAT I BUILD</h1>
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Student Hub Portal</h3>
-      <p>A student-oriented web portal designed to bring useful student information into one place.</p>
-      <p><strong>Built with</strong></p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <p><strong>Focus</strong></p>
-      <p>UI design · navigation · dynamic components · responsive structure</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚧 More Projects</h3>
-      <p>This space is growing.</p>
-      <p>I'm currently working on improving my fundamentals through <strong>small practical projects</strong>, programming problems, and experiments with new technologies.</p>
-      <p><strong>Next</strong></p>
-      <p>Java projects · DSA practice · Web projects · Hackathons</p>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<div align="center">
-  <h1><code>04</code> — GITHUB</h1>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=25cs109-cyber&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=F5F3EE&text_color=B8FFCA&icon_color=8B5CF6&cache_seconds=1800" height="175" alt="GitHub Stats"/>
-  
-  <img src="https://streak-stats.demolab.com?user=25cs109-cyber&hide_border=true&background=0D0D0F&ring=8B5CF6&fire=B8FFCA&currStreakLabel=F5F3EE&sideLabels=F5F3EE&currStreakNum=B8FFCA&sideNums=F5F3EE" height="175" alt="GitHub Streak"/>
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25cs109-cyber&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=F5F3EE&text_color=B8FFCA&cache_seconds=1800" height="150" alt="Top Languages"/>
-  
-</div>
-
-<hr>
-
-<div align="center">
-  <h1><code>05</code> — CONNECT</h1>
-  
-  <br>
-  
+  <a href="https://www.linkedin.com/in/misari-vadalia-804848372" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:misarivadalia29@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0D0D0F?style=for-the-badge&logo=gmail&logoColor=B8FFCA&labelColor=0D0D0F" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/misari-vadalia-804848372">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D0D0F?style=for-the-badge&logo=linkedin&logoColor=B8FFCA&labelColor=0D0D0F" alt="LinkedIn"/>
+  <a href="https://github.com/Misari-Vadalia-13">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/25cs109-cyber">
-    <img src="https://img.shields.io/badge/GITHUB-0D0D0F?style=for-the-badge&logo=github&logoColor=B8FFCA&labelColor=0D0D0F" alt="GitHub"/>
-  </a>
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=25cs109-cyber&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
-  
-  <br><br>
-  
-  <h3><em>Build quietly. Learn deeply. Ship often.</em></h3>
-  
-  <br><br>
-  
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=2000&color=8B5CF6&center=true&vCenter=true&width=400&lines=Thanks+for+stopping+by!+%E2%9C%A8" alt="Footer animation" />
-</div>
+</p>
+
+---
+
+## 🙋‍♀️ About Me
+
+I am a Computer Science & Engineering student interested in understanding how technology works and learning through practical projects. I enjoy building projects, solving programming problems, improving my fundamentals, and exploring new technologies.
+
+I learn best by building, testing, debugging, and continuously improving my work. Beyond coursework, I enjoy taking part in hackathons, technical events, coding activities, and collaborative academic projects.
+
+- 🎓 **Education:** 2nd Year B.Tech CSE at CSPIT, CHARUSAT (2025 – 2029)
+- 📍 **Location:** Ankleshwar, Gujarat, India
+- 🌱 **Current Focus:** Java, Data Structures & Algorithms, and Web Development
+- ☁️ **Exploring:** Fundamentals of Cloud Engineering and Computer Networks
+- 🎯 **Career Direction:** Building a strong foundation in software development while gradually exploring Cloud Engineering and strengthening core programming, DSA, networking, and web development skills.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Code::Blocks-2D3748?style=flat-square&logoColor=white" alt="Code::Blocks" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+### Core Learning & Interest Areas
+- **Programming & Algorithms:** Java, Data Structures & Algorithms, C, C++
+- **Frontend & Web:** HTML5, CSS3, JavaScript, Responsive Design & Basic UI/UX
+- **Systems & Cloud:** Computer Networks, Git/GitHub, Cloud Engineering *(currently exploring)*
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Student Hub Portal
+A student-focused web portal designed to bring useful student resources and information into one organized place.
+- **Technologies:** HTML, CSS, JavaScript
+- **Key Focus:** Frontend layout design, intuitive navigation flow, responsive structure, and interactive components.
+
+### ⌨️ KeyGap
+A typing-based web project created to enhance user interaction, track typing performance, and practice dynamic scripting.
+- **Technologies:** HTML, CSS, JavaScript, PHP / MySQL
+- **Key Focus:** Real-time interaction tracking, DOM manipulation, and dynamic functionality.
+
+### 🌾 Farmer to Field
+A collaborative project connecting agriculture with technology to address practical challenges.
+- **Type:** Team & Academic Collaboration
+- **Key Focus:** Collaborative development, peer coordination, and applying practical problem-solving to agriculture.
+
+### 🏦 OOP Mini Bank
+A Java-based object-oriented programming project demonstrating core software design principles.
+- **Technologies:** Java
+- **Key Focus:** Hands-on application of classes, objects, methods, encapsulation, and modular OOP architecture.
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Misari-Vadalia-13&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Misari's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misari-Vadalia-13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+I'm always keen to learn, collaborate on projects, and connect with peers, seniors, and mentors!
+
+- 💼 **LinkedIn:** [linkedin.com/in/misari-vadalia-804848372](https://www.linkedin.com/in/misari-vadalia-804848372)
+- 📧 **Email:** [misarivadalia29@gmail.com](mailto:misarivadalia29@gmail.com)
+- 🐙 **GitHub:** [Misari-Vadalia-13](https://github.com/Misari-Vadalia-13)
+
+<p align="center">
+  <sub><em>"Always learning, building step by step, and turning curiosity into code."</em></sub>
+</p>
