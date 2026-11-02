@@ -68,11 +68,6 @@ A student-focused web portal designed to bring useful student resources and info
 - **Technologies:** HTML, CSS, JavaScript
 - **Key Focus:** Frontend layout design, intuitive navigation flow, responsive structure, and interactive components.
 
-### ⌨️ KeyGap
-A typing-based web project created to enhance user interaction, track typing performance, and practice dynamic scripting.
-- **Technologies:** HTML, CSS, JavaScript
-- **Key Focus:** Real-time interaction tracking, DOM manipulation, and dynamic functionality.
-
 ### 🌾 Farmer to Field
 A collaborative project connecting agriculture with technology to address practical challenges.
 - **Type:** Team & Academic Collaboration
